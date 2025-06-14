@@ -1,14 +1,14 @@
-# Merkava Partner UAT Guide
+# Paysupreme Partner Guide
 
 ## Base Configuration
 
-**Base URL**: `https://merkava-uat.up.railway.app`
+**Base URL**: `https://api.paysupreme.xyz`
 
 **Demo Partner Credentials**:
 ```json
 {
-  "apiKey": "api_key_B9DVzVM4RsNPoum09KI4swSB",
-  "apiSecret": "api_secret_5OOfn8OVQbULxW7ypOV6geYoIceLRG7I2zIJjoiIdFwSfXYWMn1G2",
+  "apiKey": "api_key_B9DVzVM4RsNPoum09KI4s...",
+  "apiSecret": "api_secret_5OOfn8OVQbULxW7ypOV6geYoIceLRG7I2zIJjoiIdFwSfXYWMn...2",
   "signingSecret": "sign_aaf92ef010cedb1b3edb1d69eab190b17031e56659f22ec2507b06f1970..."
 }
 ```
